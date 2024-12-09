@@ -45,6 +45,10 @@ Welcome to the Todo List Application! This project is built using the Laravel fr
 - Access the application at `http://localhost:8000`.
 - Register or log in to start managing your tasks.
 
+## About This Project
+
+This Todo List Application was developed in just 7 days by a fresh Laravel learner. While the core functionality is implemented, there is room for improvement in the UI/UX design.
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
